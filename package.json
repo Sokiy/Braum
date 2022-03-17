@@ -1,9 +1,9 @@
 {
 	"name": "thanos",
 	"displayName": "Thanos",
-	"description": "随机删除掉文件内的一半字符",
-	"version": "0.0.1",
-	"author": "Sokiy",
+	"description": "Randomly delete half the characters of the file when you click the `Thanos Magic`",
+	"version": "0.0.2",
+	"publisher": "Sokiy",
 	"engines": {
 		"vscode": "^1.65.0"
 	},
@@ -14,6 +14,15 @@
 		"onCommand:thanos.magic"
 	],
 	"main": "./out/index.js",
+	"icon": "icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Sokiy/Thanos.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Sokiy/Thanos/issues",
+		"email": "kangshao2015@gmail.com"
+	},
 	"contributes": {
 		"commands": [
 			{
