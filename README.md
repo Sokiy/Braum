@@ -16,6 +16,18 @@
 
 
 
+## Build vsix 
+Run
+```bash
+npx vsce package
+```
+
+Build a vsix file.
+
+
+## Download 
+
+You can download plugin in [Here](https://github.com/Sokiy/Thanos/releases)
 
 ## Author
 
