@@ -1,13 +1,22 @@
-# Braum
-A Simple Tutorial Of Parser Anything.  
-Emmm,It's more accurate to call it a demo
+<h1 align="center">Thanos Magic 👋</h1>
+<p>
+  <a href="https://www.npmjs.com/package/thanos" target="_blank">
+    <img alt="Version" src="https://img.shields.io/npm/v/thanos.svg">
+  </a>
+  <img src="https://img.shields.io/badge/vscode-%5E1.65.0-blue.svg" />
+</p>
 
-## Why named Braum？
-Braum is a character in LOL, And We call he THE HEART OF THE FRELJORD too.  
-i think the parser is the heart of project, And i call it Braum.
+> VSCode Plugin  
+> Randomly delete half the characters of the file when you click the `Thanos Magic`  
+> Do not use it in the production environment
 
-## What does it do？
-Todo
+## Prerequisites
+
+- vscode ^1.65.0
 
 
-## continue
+## Author
+
+👤 **Sokiy**
+
+* Github: [@https:\/\/github.com\/Sokiy](https://github.com/https:\/\/github.com\/Sokiy)
